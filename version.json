@@ -1,9 +1,9 @@
 {
-  "version_code": 48,
-  "version_name": "1.1.47",
+  "version_code": 49,
+  "version_name": "1.1.48",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.47/QuranOmar-release.apk",
-  "file_size": 120368243,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.48/QuranOmar-release.apk",
+  "file_size": 120368320,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.47: Added complete Android Auto support with car screen views to read and listen to the Quran, browse saved bookmarks, explore highlighted words, and control recitation from car displays."
+  "release_notes": "Release v1.1.48: Optimized Android Auto and Android Automotive OS manifest metadata and automotive descriptor declarations."
 }
