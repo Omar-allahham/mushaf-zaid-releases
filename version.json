@@ -1,9 +1,9 @@
 {
-  "version_code": 53,
-  "version_name": "1.1.52",
+  "version_code": 54,
+  "version_name": "1.1.53",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.52/QuranOmar-release.apk",
-  "file_size": 120372431,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.53/QuranOmar-release.apk",
+  "file_size": 120379483,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.52: Large 1080x1080 readable Ayah Card for Android Auto display filling the car screen edge-to-edge in authentic Hafs 18 typography with Tafsir Al-Muyassar and gold illumination."
+  "release_notes": "Release v1.1.53: Native full-screen 15-line Medina Mushaf Page Viewer on Android Auto via SurfaceCallback & NavigationTemplate with gesture page turning and synced audio recitation."
 }
