@@ -1,9 +1,9 @@
 {
-  "version_code": 51,
-  "version_name": "1.1.50",
+  "version_code": 52,
+  "version_name": "1.1.51",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.50/QuranOmar-release.apk",
-  "file_size": 120371584,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.51/QuranOmar-release.apk",
+  "file_size": 120372822,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.50: Enable authentic 15-line Medina Mushaf Page View on Android Auto screens with golden verse highlight, Arabic verse text, continuous audio recitation, Surah/Page browsing, and full head unit compatibility."
+  "release_notes": "Release v1.1.51: Fix page selection playback in Android Auto via onSetMediaItems, optimize browse response times, and grant URI permissions for high-res Mushaf Page View artwork."
 }
