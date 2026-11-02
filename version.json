@@ -1,9 +1,9 @@
 {
-  "version_code": 55,
-  "version_name": "1.1.54",
+  "version_code": 56,
+  "version_name": "1.1.55",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.54/MushafZaid-release.apk",
-  "file_size": 123366142,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.55/MushafZaid-release.apk",
+  "file_size": 123366133,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.54: Rebranded application to Mushaf Zaid, integrated Firebase Authentication and Cloud Firestore for cross-platform cloud synchronization with the web app, and automated data migration from Supabase."
+  "release_notes": "Mushaf Zaid v1.1.55: Loaded authentic Firebase project credentials (quran-zaid), enabled Email/Password and Anonymous authentication, registered Android SHA-1/SHA-256 certificate fingerprints, and synchronized authentication configurations across Web and Android."
 }
