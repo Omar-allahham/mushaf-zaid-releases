@@ -1,9 +1,9 @@
 {
   "version_code": 55,
   "version_name": "1.1.54",
-  "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.54/QuranOmar-release.apk",
-  "file_size": 123365743,
+  "apk_filename": "MushafZaid-release.apk",
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.54/MushafZaid-release.apk",
+  "file_size": 123366142,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.54: Integrated Firebase Authentication and Cloud Firestore for cross-platform cloud synchronization with the web app, and automated data migration from Supabase."
+  "release_notes": "Mushaf Zaid v1.1.54: Rebranded application to Mushaf Zaid, integrated Firebase Authentication and Cloud Firestore for cross-platform cloud synchronization with the web app, and automated data migration from Supabase."
 }
