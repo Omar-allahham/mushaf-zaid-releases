@@ -1,9 +1,9 @@
 {
-  "version_code": 56,
-  "version_name": "1.1.55",
+  "version_code": 57,
+  "version_name": "1.1.56",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.55/MushafZaid-release.apk",
-  "file_size": 123366133,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.56/MushafZaid-release.apk",
+  "file_size": 123376516,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.55: Loaded authentic Firebase project credentials (quran-zaid), enabled Email/Password and Anonymous authentication, registered Android SHA-1/SHA-256 certificate fingerprints, and synchronized authentication configurations across Web and Android."
+  "release_notes": "Mushaf Zaid v1.1.56: Introduced new Recite & Review Mode (\u0648\u0636\u0639 \u0627\u0644\u062a\u0633\u0645\u064a\u0639 \u0648\u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629) with shareable sessions, real-time mistake marking (Memorization, Hesitation, Tajweed), direct transfer of mistakes into main highlights, Android deep-link handling for recitation links, reversed swipe gesture flow matching the native Medina Mushaf layout, and persistent audio word toolbar."
 }
