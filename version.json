@@ -1,9 +1,9 @@
 {
-  "version_code": 59,
-  "version_name": "1.1.58",
+  "version_code": 60,
+  "version_name": "1.1.59",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.58/MushafZaid-release.apk",
-  "file_size": 123431979,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.59/MushafZaid-release.apk",
+  "file_size": 123456522,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.58: Fix recitation session creation and Firestore security rules, add full App Links assetlinks.json verification, introduce interactive live RecitationReviewBanner and real-time word mistake marking in the reader with live page highlight rendering and deep link opening support."
+  "release_notes": "Mushaf Zaid v1.1.59: Allow ayah sharing to select multiple ayahs on the current page or share the entire page with dynamic range controls and whole page mode on Android and Web."
 }
