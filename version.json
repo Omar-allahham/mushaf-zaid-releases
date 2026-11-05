@@ -1,9 +1,9 @@
 {
-  "version_code": 64,
-  "version_name": "1.1.63",
+  "version_code": 65,
+  "version_name": "1.1.64",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.63/MushafZaid-release.apk",
-  "file_size": 123495291,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.64/MushafZaid-release.apk",
+  "file_size": 123497121,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.63: Add option in the Ayah popup to highlight the entire verse with custom color selection and removal."
+  "release_notes": "Mushaf Zaid v1.1.64: Fix Mushaf reader aspect ratio distortion on wide screens (tablets & foldables), improve calligraphy downscaling filtering (FilterQuality.High), optimize two-page book spread proportions, and add landscape layout mode setting."
 }
