@@ -1,9 +1,9 @@
 {
-  "version_code": 65,
-  "version_name": "1.1.64",
+  "version_code": 66,
+  "version_name": "1.1.65",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.64/MushafZaid-release.apk",
-  "file_size": 123497121,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.65/MushafZaid-release.apk",
+  "file_size": 123499053,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.64: Fix Mushaf reader aspect ratio distortion on wide screens (tablets & foldables), improve calligraphy downscaling filtering (FilterQuality.High), optimize two-page book spread proportions, and add landscape layout mode setting."
+  "release_notes": "Mushaf Zaid v1.1.65: Remove Surah App watermark from surah header banner replacing it with authentic Medina palmette rosettes, and optimize tablet two-page spread aspect ratio for wider reading view with larger text."
 }
