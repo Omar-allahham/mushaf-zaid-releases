@@ -1,9 +1,9 @@
 {
-  "version_code": 62,
-  "version_name": "1.1.61",
+  "version_code": 63,
+  "version_name": "1.1.62",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.61/MushafZaid-release.apk",
-  "file_size": 123485639,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.62/MushafZaid-release.apk",
+  "file_size": 123489557,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.61: In-reader quick index popup for instant jumping to Surahs, Juzs, and Hizbs, plus prominent latest reading position banner at top of all index tabs."
+  "release_notes": "Mushaf Zaid v1.1.62: Automatic header dismissal on page click and hold-to-select word gestures to prevent accidental touches during swipe navigation."
 }
