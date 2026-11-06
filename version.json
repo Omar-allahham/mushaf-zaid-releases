@@ -1,9 +1,9 @@
 {
-  "version_code": 67,
-  "version_name": "1.1.66",
+  "version_code": 68,
+  "version_name": "1.1.67",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.66/MushafZaid-release.apk",
-  "file_size": 123499719,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.67/MushafZaid-release.apk",
+  "file_size": 123500315,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.66: Fix crash when enabling dual-page view on phones and rotating to landscape, and enhance web reader responsiveness, search, quick index navigation, and page transitions."
+  "release_notes": "Mushaf Zaid v1.1.67: Fix crash in dual-page phone view when rotating or sizing ayah markers on compact screens, enable PWA manifest for web app installation, and synchronize single/dual pager states."
 }
