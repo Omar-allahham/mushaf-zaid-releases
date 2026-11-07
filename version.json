@@ -1,9 +1,9 @@
 {
-  "version_code": 69,
-  "version_name": "1.1.68",
+  "version_code": 70,
+  "version_name": "1.1.69",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.68/MushafZaid-release.apk",
-  "file_size": 123514435,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.69/MushafZaid-release.apk",
+  "file_size": 125659726,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.68: Fix recitation creation form with manual Juz/Surah/Page inputs and full Juz 16 reachability, fix web fullscreen one-page blank view, and optimize two-page spread footer layout."
+  "release_notes": "Mushaf Zaid v1.1.69: Add Google Cast audio casting support for Chromecast and Google Home devices in lockstep with on-screen calligraphy highlighting, active casting status display, and unified cast controls across audio player bars and range dialog."
 }
