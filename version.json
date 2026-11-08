@@ -1,9 +1,9 @@
 {
-  "version_code": 70,
-  "version_name": "1.1.69",
+  "version_code": 71,
+  "version_name": "1.1.70",
   "apk_filename": "MushafZaid-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.69/MushafZaid-release.apk",
-  "file_size": 125659726,
+  "apk_url": "https://github.com/Omar-allahham/mushaf-zaid-releases/releases/download/v1.1.70/MushafZaid-release.apk",
+  "file_size": 125660763,
   "min_sdk": 26,
-  "release_notes": "Mushaf Zaid v1.1.69: Add Google Cast audio casting support for Chromecast and Google Home devices in lockstep with on-screen calligraphy highlighting, active casting status display, and unified cast controls across audio player bars and range dialog."
+  "release_notes": "Mushaf Zaid v1.1.70: Fix bookmark links to navigate directly to the exact page of the bookmarked verse instead of opening the beginning of the surah."
 }

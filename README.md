@@ -14,7 +14,7 @@ A native Android Quran application featuring:
 
 | Package | Platform | Latest Release | Download Link |
 |---|---|---|---|
-| **Android APK** | Android 8.0+ (API 26+) | **v1.1.69 (Build 70)** | [Download QuranOmar-release.apk](https://github.com/Omar-allahham/quran-omar-releases/releases/latest/download/QuranOmar-release.apk) |
+| **Android APK** | Android 8.0+ (API 26+) | **v1.1.70 (Build 71)** | [Download QuranOmar-release.apk](https://github.com/Omar-allahham/quran-omar-releases/releases/latest/download/QuranOmar-release.apk) |
 
 ---
 
